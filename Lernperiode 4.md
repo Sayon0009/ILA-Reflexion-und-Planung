@@ -33,6 +33,8 @@ Danach habe ich mir einige Videos zu KI development und Lokalen KI angeschaut wi
 - [ ] HTB Box abschliessen
 - [] ANderes Tool wie z.b OLAMA kennen lernen
 
+
+
 (Heute habe ich... (50-100 Wörter))
 
 ## Lernperiode Reflexion

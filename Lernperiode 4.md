@@ -26,16 +26,27 @@ Heute habe ich... (50-100 Wörter)
 Heute habe ich zuerst mein GitHub Account neu Strukturiert und ein neues Repo für diese Lernperiode gemacht.
 Danach habe ich mir einige Videos zu KI development und Lokalen KI angeschaut wie z.b das tool OLAMA. Ich konnte gutes grundelegendes Wissen aufbauen und so viel lernen. Gegen das ende des Tages habe ich noch an einer Box in HTB weitergearbeitet.
 
-## Planung 21.05.2026
+ ## Planung 22.05.2026
 3 bis 5 klar messbare Arbeitspakete.
 
-- [ ] Eine KI auf meine PC installieren
-- [ ] HTB Box abschliessen
-- [] ANderes Tool wie z.b OLAMA kennen lernen
+- [X] Eine KI auf meine PC installieren
+- [X] HTB Box abschliessen
+- [X] ANderes Tool wie z.b OLAMA kennen lernen
+- [ ] 
 
-
-
+## 22.05.2026
 (Heute habe ich... (50-100 Wörter))
+Heute habe ich im Online Unterricht auf meine PC zuhause Lokal gearbeitet. Zuerst habe ich Ollama auch auf meinem PC zuhause installiert und ein Paar KI bots downloaded und getestet. Als neues tool habe ich LM Studios getestet wobei ich gemerkt habe das Ollama für mich besser ist. Ich habe verschiedene anwendungen mit der KI versucht zu bearbeiten was teilweise funktioniert hat. Danach habe ich in HTB meine angefangene Box abgeschlossen. Heute habe ich auch noch in Powershell ein bischen ausprobiert nach dem Input. 
+
+## Planung 29.05.2026
+3 bis 5 klar messbare Arbeitspakete.
+
+- [] Ollama PYthon extension installieren
+- [] Eine neue HTB Box anfangen
+- [] Ollama Bot erstellen und erstes wissen hinzufügen.
+- [] 
+
+
 
 ## Lernperiode Reflexion
 (In dieser Lernperiode habe ich... (100-150 Wörter))

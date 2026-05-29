@@ -19,7 +19,8 @@ Ich möchte den umgang mit lokalen KI lernen auch die optimierung und veränderu
 ### Generelle Ziele
 Was haben Sie für klare und messbare Ziele in dieser Lernperiode?¨
 Auf meinem Laptop Lokale KI bots haben und eine KI Tweaken.
-## 08.05.2026
+
+## Reflexion 08.05.2026
 
 Heute habe ich... (50-100 Wörter)
 
@@ -34,7 +35,7 @@ Danach habe ich mir einige Videos zu KI development und Lokalen KI angeschaut wi
 - [X] ANderes Tool wie z.b OLAMA kennen lernen
 - [ ] 
 
-## 22.05.2026
+## Reflexion 22.05.2026
 (Heute habe ich... (50-100 Wörter))
 Heute habe ich im Online Unterricht auf meine PC zuhause Lokal gearbeitet. Zuerst habe ich Ollama auch auf meinem PC zuhause installiert und ein Paar KI bots downloaded und getestet. Als neues tool habe ich LM Studios getestet wobei ich gemerkt habe das Ollama für mich besser ist. Ich habe verschiedene anwendungen mit der KI versucht zu bearbeiten was teilweise funktioniert hat. Danach habe ich in HTB meine angefangene Box abgeschlossen. Heute habe ich auch noch in Powershell ein bischen ausprobiert nach dem Input. 
 

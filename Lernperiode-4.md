@@ -43,10 +43,25 @@ Heute habe ich im Online Unterricht auf meine PC zuhause Lokal gearbeitet. Zuers
 ## Planung 29.05.2026
 3 bis 5 klar messbare Arbeitspakete.
 
-- [] Ollama PYthon extension installieren
-- [] Eine neue HTB Box anfangen
-- [] Ollama Bot erstellen und erstes wissen hinzufügen.
+- [x] Ollama PYthon extension installieren
+- [x] Eine neue HTB Box anfangen
+- [teils] Ollama Bot erstellen und erstes wissen hinzufügen.
 - [] 
+
+## Reflexion 29.05.2026
+
+Heute hab ich erfolgreich an meinen Zielen gearbeitet. Ich komme gut mit Ollama voran und es interessiert mich auch wircklich sehr. Die phyton enxtension zu installieren war ein bischen ein krampf da es extrem lange ging zuerst ollama auf die neuste Version zu bringen und danach auch noch phyton extention rein hzu laden weil das Internet hier langsam sein kann. In HTB habe ich eine neue Box angefange. Jedoch musste ich bzw. immer noch in das Thema einlesesn in Academy. Zu dem Ollama Agent erstellen habe ich heute einige Tutuorials und Quellen angeschaut daher konnte ich das Ziel nicht fertig machen.
+
+## Planung 05.06.2026
+3 bis 5 klar messbare Arbeitspakete.
+
+- [] Ollama Agent anfange zu erstellen
+- [] HTB Box mind. 3 anforderungen
+- [] Ollama Phyton extension kurs
+- [] 
+
+
+
 
 
 

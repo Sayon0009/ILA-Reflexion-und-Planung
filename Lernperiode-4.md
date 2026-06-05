@@ -64,7 +64,7 @@ Heute hab ich erfolgreich an meinen Zielen gearbeitet. Ich komme gut mit Ollama 
 Heute habe ich meine Ziele gut erreicht. Ich konnte meine Ollama Agent anfangen zu erstellen. Jedoch wurde es mir sehr schnell langweilig weil ich praktisch nur wisse uploaden musste. Zur abwechslung habe ich HTB Box abgeschlossen. Für den Phyton extension Kurs musste ich viel Rechechieren und Tutorials schauen.
 
 
-## Planung 05.06.2026
+## Planung 12.06.2026
 3 bis 5 klar messbare Arbeitspakete.
 
 - [] Ollama Agent abschliessen

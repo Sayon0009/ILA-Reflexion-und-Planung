@@ -1,6 +1,5 @@
 ## Lern-Periode-4
-## Name
-Sayon Kunz
+## Name: Sayon Kunz
 ## Zeitraum
 18.04.2026 bis 03.07.2026
 ## Grob-Planung
@@ -57,7 +56,7 @@ Heute hab ich erfolgreich an meinen Zielen gearbeitet. Ich komme gut mit Ollama 
 
 - [] Ollama Agent anfange zu erstellen
 - [] HTB Box mind. 3 anforderungen
-- [] Ollama Phyton extension kurs
+- [] Ollama Phyton extension kurs   
 - [] 
 
 

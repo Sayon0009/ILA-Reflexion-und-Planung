@@ -67,12 +67,21 @@ Heute habe ich meine Ziele gut erreicht. Ich konnte meine Ollama Agent anfangen 
 3 bis 5 klar messbare Arbeitspakete.
 
 - [] Ollama Agent abschliessen
-- [] HTB Box anfangen
-- [] Ollama versionen ausprobieren
+- [x] HTB Box anfangen
+- [x] Ollama versionen ausprobieren
 - [] 
 
+## Reflexion 12.06.2026
+Heute habe ich Hauptzächlich an HTB gearbeitet ich habe kurz OLLAMA Versionen getestet. In HTB habe ich zuerst mein Docker neu einrichten müssen da mein PC beim start immer gecrashed ist. Jetzt funktioniert es aber. Ich konnte eine ganze Box abschliessen. 
 
 
+## Planung 19.06.2026
+3 bis 5 klar messbare Arbeitspakete.
+
+- [] Ollama Agent abschliessen
+- [] Olllama Sprachen ausprobieren
+- [] Ollama YT zu extension schauen
+- [] 
 
 ## Lernperiode Reflexion
 (In dieser Lernperiode habe ich... (100-150 Wörter))

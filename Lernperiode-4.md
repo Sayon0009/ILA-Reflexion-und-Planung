@@ -1,7 +1,6 @@
 ## Lern-Periode-4
 - Name: Sayon Kunz
-- Zeitraum:
-18.04.2026 bis 03.07.2026
+- Zeitraum: 18.04.2026 bis 03.07.2026
 ## Grob-Planung
 ### Noten
 Wo stehen Sie mit Ihren Noten? In welchen Modulen waren Sie besonders stark; in welchen sind die ungenügend? Welche davon sind besonders wichtig?

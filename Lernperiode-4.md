@@ -1,6 +1,6 @@
 ## Lern-Periode-4
-## Name: Sayon Kunz
-## Zeitraum
+- Name: Sayon Kunz
+- Zeitraum:
 18.04.2026 bis 03.07.2026
 ## Grob-Planung
 ### Noten

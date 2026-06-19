@@ -78,10 +78,24 @@ Heute habe ich Hauptzächlich an HTB gearbeitet ich habe kurz OLLAMA Versionen g
 ## Planung 19.06.2026
 3 bis 5 klar messbare Arbeitspakete.
 
-- [] Ollama Agent abschliessen
-- [] Olllama Sprachen ausprobieren
-- [] Ollama YT zu extension schauen
+- [x] Ollama Agent abschliessen
+- [x] Olllama Sprachen ausprobieren
+- [x] Ollama YT zu extension schauen
 - [] 
 
+
+## Reflexion 19.06.2026
+
+Von der heutigen Planung alle drei Ollama-Pakete erledigt: Agent abgeschlossen, Sprachen ausprobiert, YT-Video zur Extension geschaut. Docker beim Start gecrashed, musste neu aufsetzen —hat Zeit gekostet, läuft jz aber stabil, und eine ganze HTB-Box durchgezogen. 
+
+
+## Planung 26.06.2026
+3 bis 5 klar messbare Arbeitspakete.
+
+- [] Docker testen
+- [] HTB weitermachen
+- [] Ollama Agent testen evtl. Kollegen
+- [] 
 ## Lernperiode Reflexion
 (In dieser Lernperiode habe ich... (100-150 Wörter))
+-

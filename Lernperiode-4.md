@@ -96,6 +96,8 @@ Von der heutigen Planung alle drei Ollama-Pakete erledigt: Agent abgeschlossen, 
 - [] HTB weitermachen
 - [] Ollama Agent testen evtl. Kollegen
 - [] 
+
+-S
 ## Lernperiode Reflexion
 (In dieser Lernperiode habe ich... (100-150 Wörter))
 -

@@ -54,7 +54,7 @@ Heute hab ich erfolgreich an meinen Zielen gearbeitet. Ich komme gut mit Ollama 
 3 bis 5 klar messbare Arbeitspakete.
 
 - [x] Ollama Agent anfange zu erstellen
-- [x] HTB Box mind. 3 anforderungen
+- [x] HTB Box mind. 3 anforderungenff
 - [x] Ollama Phyton extension kurs   
 - [] 
 
@@ -96,6 +96,8 @@ Von der heutigen Planung alle drei Ollama-Pakete erledigt: Agent abgeschlossen, 
 - [x] HTB weitermachen
 - [x] Ollama Agent testen evtl. Kollegen
 - [] 
+
+
 
 ## Reflexion 26.06.2026
 Ich habe am anfang Docker getestet und dies war erfolgreich. IN HTB konnte ich eine Ganze Maschiene abschliessen und viel dazu lernen. Mein Ollama Agent an einem Kollgege sschicken habe ich auch gemacht und zwar nael.

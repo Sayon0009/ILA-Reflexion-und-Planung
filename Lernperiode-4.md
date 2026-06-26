@@ -43,7 +43,7 @@ Heute habe ich im Online Unterricht auf meine PC zuhause Lokal gearbeitet. Zuers
 
 - [x] Ollama PYthon extension installieren
 - [x] Eine neue HTB Box anfangen
-- [teils] Ollama Bot erstellen und erstes wissen hinzufügen.
+- [x] Ollama Bot erstellen und erstes wissen
 - [] 
 
 ## Reflexion 29.05.2026
@@ -66,7 +66,7 @@ Heute habe ich meine Ziele gut erreicht. Ich konnte meine Ollama Agent anfangen 
 ## Planung 12.06.2026
 3 bis 5 klar messbare Arbeitspakete.
 
-- [] Ollama Agent abschliessen
+- [x] Ollama Agent abschliessen
 - [x] HTB Box anfangen
 - [x] Ollama versionen ausprobieren
 - [] 
@@ -92,12 +92,14 @@ Von der heutigen Planung alle drei Ollama-Pakete erledigt: Agent abgeschlossen, 
 ## Planung 26.06.2026
 3 bis 5 klar messbare Arbeitspakete.
 
-- [] Docker testen
-- [] HTB weitermachen
-- [] Ollama Agent testen evtl. Kollegen
+- [x] Docker testen
+- [x] HTB weitermachen
+- [x] Ollama Agent testen evtl. Kollegen
 - [] 
 
--S
+## Reflexion 26.06.2026
+Ich habe am anfang Docker getestet und dies war erfolgreich. IN HTB konnte ich eine Ganze Maschiene abschliessen und viel dazu lernen. Mein Ollama Agent an einem Kollgege sschicken habe ich auch gemacht und zwar nael.
+
 ## Lernperiode Reflexion
 (In dieser Lernperiode habe ich... (100-150 Wörter))
--
+In dieser Lernperiode habe ich mich hauptsächlich mit Ollama beschäftigt.  Installation, verschiedene Modelle und Versionen testen, die Python-Extension einrich…In dieser Lernperiode habe ich mich hauptsächlich mit Ollama beschäftigt: Installation, verschiedene Modelle und Versionen testen, die Python-Extension einrichten und einen eigenen Agenten erstellen, den ich am Ende einem Kollegen weitergegeben habe. Nebenbei habe ich in Hack The Box mehrere Maschinen abgeschlossen und Docker-Probleme selbstständig gelöst. Die meisten Arbeitspakete konnte ich erfolgreich umsetzen.

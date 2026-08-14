@@ -25,19 +25,19 @@ Java script näher kennen lernen. Ich möchte sicher 1-2 grosse Projekte machen 
 ### Planung 14.08.2026
 3 bis 5 klar messbare Arbeitspakete.
 
-- [ ] Erstes Arbeitspaket
-- [ ] ...
-- [X] Viertes AP
+- [x] Reflexion perfekt gemacht
+- [x] Neue Ideen für Projekte
+- [ ]     
 
 (Heute habe ich... (50-100 Wörter))
-
+Ich habe meine Reflexion gemacht alle grundlegenden fragen ausgefüllt und ziele geschrieben. Neue Ideen habe ich auch gefunden und zwar bin ich daran einen URL shortener zu Programmieren.  
 
 ### Planung 21.08.2026
 3 bis 5 klar messbare Arbeitspakete.
 
-- [ ] Erstes Arbeitspaket
-- [ ] ...
-- [X] Viertes AP
+- [] SQLite YT video
+- [] Ideen für Layout sammeln
+- [] SQLite source anschauen
 
 (Heute habe ich... (50-100 Wörter))
 

@@ -35,9 +35,9 @@ Ich habe meine Reflexion gemacht alle grundlegenden fragen ausgefüllt und ziele
 ### Planung 21.08.2026
 3 bis 5 klar messbare Arbeitspakete.
 
-- [] SQLite YT video
-- [] Ideen für Layout sammeln
-- [] SQLite source anschauen
+- [ ] SQLite YT video
+- [ ] Ideen für Layout sammeln
+- [ ] SQLite source anschauen
 
 (Heute habe ich... (50-100 Wörter))
 

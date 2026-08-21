@@ -35,18 +35,18 @@ Ich habe meine Reflexion gemacht alle grundlegenden fragen ausgefüllt und ziele
 ### Planung 21.08.2026
 3 bis 5 klar messbare Arbeitspakete.
 
-- [ ] SQLite YT video
-- [ ] Ideen für Layout sammeln
-- [ ] SQLite source anschauen
+- [x] SQLite YT video
+- [x] Ideen für Layout sammeln
+- [x] SQLite source anschauen
 
 (Heute habe ich... (50-100 Wörter))
-
+Heute habe ich leider praktisch nicht an meinen Zielen gearbeitet. Ich hatte spontan lust darauf HTB zu machen und habe dan praktisch den ganzen morgen einen LINUX HTB kurs gemacht. Als ich ein bisschen reingekommen bin ins Linux system und den aufbau usw. verstanden habe lief es sehr gut und hat auch spass gemacht. Für meinen URL shortener habe ich bis jetzt nur ein kleines Layout Mockup gemacht. 
 ### Planung 28.08.2026
 3 bis 5 klar messbare Arbeitspakete.
 
-- [ ] Erstes Arbeitspaket
-- [ ] ...
-- [X] Viertes AP
+- [ ] SQLite YT video
+- [ ] Linux HTB Kurs weiterarbeiten
+- [ ] HTB Linux Kurs mind 5 aufgaben erarbeiten
 
 (Heute habe ich... (50-100 Wörter))
 ### Planung 04.09.2026

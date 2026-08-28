@@ -44,17 +44,18 @@ Heute habe ich leider praktisch nicht an meinen Zielen gearbeitet. Ich hatte spo
 ### Planung 28.08.2026
 3 bis 5 klar messbare Arbeitspakete.
 
-- [ ] SQLite YT video
-- [ ] Linux HTB Kurs weiterarbeiten
-- [ ] HTB Linux Kurs mind 5 aufgaben erarbeiten
+- [x] SQLite YT video
+- [x] Linux HTB Kurs weiterarbeiten
+- [x] HTB Linux Kurs mind 5 aufgaben erarbeiten
 
 (Heute habe ich... (50-100 Wörter))
+Heute habe ich alle meine ziele erledigt. Am Anfang musste ich erst noch auf meine Ersatzlaptop ein Problem beheben wo mir Leonardo sehr gut helfen konnte. Ich musste ein Passwort zurücksetzen ohne den Microsoft Secure Key was ein bisschen schwer war. SQLite Video hat mir die Basics gut beigebracht jedoch stehen noch fragen zur Recherche offen. Ansonte habe ich noch im Linux HTB Kurs weitergearbeitet.
 ### Planung 04.09.2026
 3 bis 5 klar messbare Arbeitspakete.
 
-- [ ] Erstes Arbeitspaket
-- [ ] ...
-- [X] Viertes AP
+- [ ] 3 Flags in Linux HTB Submitten max. 1.30h  
+- [ ] SQL Lite mind. 5 Quellen lesen und aufarbeiten. Max 1h
+- [ ] Erste Ordnerstrukturen erstellen und Code schreiben. 
 
 (Heute habe ich... (50-100 Wörter))
 ### Planung 11.09.2026

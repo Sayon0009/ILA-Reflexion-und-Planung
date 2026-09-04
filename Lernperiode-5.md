@@ -53,17 +53,18 @@ Heute habe ich alle meine ziele erledigt. Am Anfang musste ich erst noch auf mei
 ### Planung 04.09.2026
 3 bis 5 klar messbare Arbeitspakete.
 
-- [ ] 3 Flags in Linux HTB Submitten max. 1.30h  
-- [ ] SQL Lite mind. 5 Quellen lesen und aufarbeiten. Max 1h
-- [ ] Erste Ordnerstrukturen erstellen und Code schreiben. 
+- [x] 3 Flags in Linux HTB Submitten max. 1.30h  
+- [x] SQL Lite mind. 5 Quellen lesen und aufarbeiten. Max 1h
+- [x] Erste Ordnerstrukturen erstellen und Code schreiben. 
 
 (Heute habe ich... (50-100 Wörter))
+Heute habe ich nur an HTB gearbeitet da ich mein angefangenes Projekt auf meinem kaputten Lap Top habe und dort Lokal gespeichert. Daher habe ich nur in HTB gearbeitet. ICh habe ein paar Quellen gelesen und wissen aufarbeitet.
 ### Planung 11.09.2026
 3 bis 5 klar messbare Arbeitspakete.
 
-- [ ] Erstes Arbeitspaket
-- [ ] ...
-- [X] Viertes AP
+- [ ] Wenn mein LapTop wider da ist Ordnerstruktur erstellen.
+- [ ] Linux weiterarbeiten ca. 2 h wider in Essentials 2-4 Flags submitten.
+- [ ] Cisco Academy Phyton 1 anfangen. 1h-1.30h
 
 (Heute habe ich... (50-100 Wörter))
 ### Planung 18.09.2026

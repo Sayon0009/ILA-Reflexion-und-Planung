@@ -62,17 +62,18 @@ Heute habe ich nur an HTB gearbeitet da ich mein angefangenes Projekt auf meinem
 ### Planung 11.09.2026
 3 bis 5 klar messbare Arbeitspakete.
 
-- [ ] Wenn mein LapTop wider da ist Ordnerstruktur erstellen.
-- [ ] Linux weiterarbeiten ca. 2 h wider in Essentials 2-4 Flags submitten.
-- [ ] Cisco Academy Phyton 1 anfangen. 1h-1.30h
+- [x] Wenn mein LapTop wider da ist Ordnerstruktur erstellen.
+- [x] Linux weiterarbeiten ca. 2 h wider in Essentials 2-4 Flags submitten.
+- [x] Cisco Academy Phyton 1 anfangen. 1h-1.30h
 
 (Heute habe ich... (50-100 Wörter))
+Ich habe heute nur an HTB gearbeitet. Ich habe einem neue Kurse angefangen und vieles neues gelernt. Den Linux 2 kurs habe ich fertig. Ordnerstruktur konnte ich noch nicht machen da ich meine LapTop noch nicht widerhabe. Dafür habe ich auf meinem ersatzt Laptop und im Onedrive Ordnerstruktur gemacht.
 ### Planung 18.09.2026
 3 bis 5 klar messbare Arbeitspakete.
 
-- [ ] Erstes Arbeitspaket
-- [ ] ...
-- [X] Viertes AP
+- [ ] Wenn mein LapTop wider da ist Ordnerstruktur erstellen.
+- [ ] Neuer HTB kurs weiterarbeiten ca. 2H 3 flags 
+- [ ] Cisco Academy 1h-1.30h arbeiten
 
 (Heute habe ich... (50-100 Wörter))
 ### Planung 25.09.2026

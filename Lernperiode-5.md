@@ -71,20 +71,17 @@ Ich habe heute nur an HTB gearbeitet. Ich habe einem neue Kurse angefangen und v
 ### Planung 18.09.2026
 3 bis 5 klar messbare Arbeitspakete.
 
-- [ ] Wenn mein LapTop wider da ist Ordnerstruktur erstellen.
-- [ ] Neuer HTB kurs weiterarbeiten ca. 2H 3 flags 
-- [ ] Cisco Academy 1h-1.30h arbeiten
+- [x] Wenn mein LapTop wider da ist Ordnerstruktur erstellen.
+- [x] Neuer HTB kurs weiterarbeiten ca. 2H 3 flags 
+- [-] Cisco Academy 1h-1.30h arbeiten
 
 (Heute habe ich... (50-100 Wörter))
+Heute Habe ich  in HTB gearbeitet. Ich habe an einem Linux Academy Kurs weitergeaarbeitet und 1 Box gemacht. Da mein LapTop aus der Reperatur kamm habe ich auch die Ordnerstruktur verbessert. Mit dem URL shortener habe ich aufgegeben da ich an zu viel auf einmal gearbeitet habe. Für Cisco Academy habe ich auch nichts gemacht da ich zu sehr in Linux vertieft war.
 ### Planung 25.09.2026
 3 bis 5 klar messbare Arbeitspakete.
 
-- [ ] Erstes Arbeitspaket
-- [ ] ...
-- [X] Viertes AP
-
-(Heute habe ich... (50-100 Wörter))
-
+- [ ] HTB: 4 Flags im aktuellen Kurs submitten, max. 2h
+- [ ] HTB: aktuelles Modul auf mind. 75 % bringen 
 
 ## Lernperiode Reflexion
 (In dieser Lernperiode habe ich... (100-150 Wörter))

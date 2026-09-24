@@ -80,8 +80,13 @@ Heute Habe ich  in HTB gearbeitet. Ich habe an einem Linux Academy Kurs weiterge
 ### Planung 25.09.2026
 3 bis 5 klar messbare Arbeitspakete.
 
-- [ ] HTB: 4 Flags im aktuellen Kurs submitten, max. 2h
-- [ ] HTB: aktuelles Modul auf mind. 75 % bringen 
+- [x] HTB: 4 Flags im aktuellen Kurs submitten, max. 2h
+- [x] HTB: aktuelles Modul auf mind. 75 % bringen
 
+(Heute habe ich... (50-100 Wörter))
+Heute habe ich nur an HTB gearbeitet. Ich komme in meinem Modul sehr gut voran und es macht spass. Manchmal habe ich Schwierigkeiten da KI auch nicht immer alles weiss jedoch kann ich immer gut Hilfe bei Mitschüler holen. 
 ## Lernperiode Reflexion
 (In dieser Lernperiode habe ich... (100-150 Wörter))
+
+In dieser Lernperiode habe ich vor allem meine Linux-Kenntnisse mit HTB verbessert. Ursprünglich wollte ich einen URL-Shortener programmieren, habe das Projekt aber abgebrochen, da ich an zu vielen Dingen gleichzeitig gearbeitet habe. Dafür konnte ich mehrere HTB-Kurse bearbeiten und viel Neues über Linux lernen. In der nächsten Lernperiode möchte ich mich auf weniger Ziele konzentrieren und diese dafür konsequent abschliessen.
+

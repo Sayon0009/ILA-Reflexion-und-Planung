@@ -44,11 +44,13 @@ Heute habe ich leider praktisch nicht an meinen Zielen gearbeitet. Ich hatte spo
 ### Planung 28.08.2026
 3 bis 5 klar messbare Arbeitspakete.
 
-- [ ] SQLite YT video
-- [ ] Linux HTB Kurs weiterarbeiten
-- [ ] HTB Linux Kurs mind 5 aufgaben erarbeiten
+- [-] SQLite YT video
+- [x] Linux HTB Kurs weiterarbeiten
+- [x] HTB Linux Kurs mind 5 aufgaben erarbeiten
 
 (Heute habe ich... (50-100 Wörter))
+Heute Habe ich nur in HTB gearbeitet. Ich habe an einem Linux Academy Kurs weitergeaarbeitet und 1 Box gemacht. Da mein LapTop aus der Reperatur kamm habe ich auch die Ordnerstruktur verbessert.
+
 ### Planung 04.09.2026
 3 bis 5 klar messbare Arbeitspakete.
 

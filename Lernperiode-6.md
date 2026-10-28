@@ -12,14 +12,17 @@ Meine Noten sind bis jetzt sehr gut ich bin zufrieden mit meiner Leistung. Das M
 
 ### Veränderungen
 > Was möchten Sie generell im Vergleich zur letzten Lernperiode anpassen?
+
 Ein Projekt anfangen und dies aucch wwirklich abschliessen. D.h ich habe letzte LP vieles angefangen queer durcheinander gearbeitet und schlussendlich nur HTB wirklich abgeschlossen.
 
 ### Projekte / neue Technologien
 > Was für Projekte/neue Technologien möchten Sie gerne in dieser Lernperiode lernen?
+
 Ich habe vor ein Powershell Projekt bzw. Automation zu schreiben. Ich habe auch vor weiterhin viel in HTB zu arbeiten.
 
 ### Generelle Ziele
 > Was haben Sie für klare und messbare Ziele in dieser Lernperiode?
+
 HTB Boxen die Abgeschlossen sind. Eine Funktionierende Powershell Automation bzw. Skript.
 
 ## Tagesplanungen

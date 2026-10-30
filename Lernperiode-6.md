@@ -38,14 +38,24 @@ HTB Boxen die Abgeschlossen sind. Eine Funktionierende Powershell Automation bzw
 Ich habe meine LP ausgefüllt und vorbereitet. ALs IDee für Powershell bin ich auf ein Health Checker für den LapTop gekommen. Er sollte wichtige sachen wie z.b noch nicht ausgeführte Updates oder Passwörter usw. checken und mir einen Bericht schicken. Ansonsten habe ich auf HTB ein bischen an einem Linux kurs gerbeitetö.
 
 
-### Planung 23.08.2024
+### Planung 30.10.2026
 3 bis 5 klar messbare Arbeitspakete.
 
-- [ ] Erstes Arbeitspaket
-- [ ] ...
-- [X] Viertes AP
+- [x] Powershell Projekt anfnagen
+- [x] HTB 10 % im Kurs arbeiten
+- [X] Powershell Skriptordner struktur usw.
 
 (Heute habe ich... (50-100 Wörter))
+Heute habe ich mein Powershell skript angefangen ich habe viel rechechiert und mit KI gelernt. IN HTB bin ich auch recht gut vorangekommen.
 
+
+### Planung 6.11.2026
+3 bis 5 klar messbare Arbeitspakete.
+
+- [ ] Powershell Projekt weiterarbeiten
+- [ ] HTB 15 % im Kurs arbeiten
+- [ ] Powershell funktion für so das ich nicht bei jeder funktion ein neuen log ansetzt.
+
+(Heute habe ich... (50-100 Wörter))
 ## Lernperiode Reflexion
 (In dieser Lernperiode habe ich... (100-150 Wörter))

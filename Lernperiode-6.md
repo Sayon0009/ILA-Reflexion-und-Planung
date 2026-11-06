@@ -63,9 +63,9 @@ Heute habe ich mein Powershell skript fertig gemacht. Ich konnte gut vorankommen
 ### Planung 20.11.2026
 3 bis 5 klar messbare Arbeitspakete.
 
-- [] Für das Powershell Projekt eine einfache HTML seite bauen. (ca.1.30h)
-- [] Eine Aufgabenpalannung machen in welcher die HTML seite aufploppt bei jedem Pc start. (ca. 30 min)
-- [] In HTB an meinem Linux kurs weiterarbeiten 4 Flags (ca 2h)
+- [ ] Für das Powershell Projekt eine einfache HTML seite bauen. (ca.1.30h)
+- [ ] Eine Aufgabenpalannung machen in welcher die HTML seite aufploppt bei jedem Pc start. (ca. 30 min)
+- [ ] In HTB an meinem Linux kurs weiterarbeiten 4 Flags (ca 2h)
 
 (Heute habe ich... (50-100 Wörter))
 

@@ -52,10 +52,24 @@ Heute habe ich mein Powershell skript angefangen ich habe viel rechechiert und m
 ### Planung 6.11.2026
 3 bis 5 klar messbare Arbeitspakete.
 
-- [ ] Powershell Projekt weiterarbeiten
-- [ ] HTB 15 % im Kurs arbeiten
-- [ ] Powershell funktion für so das ich nicht bei jeder funktion ein neuen log ansetzt.
+- [x] Powershell Projekt weiterarbeiten
+- [x] HTB 15 % im Kurs arbeiten
+- [x] Powershell funktion für so das ich nicht bei jeder funktion ein neuen log ansetzt.
 
 (Heute habe ich... (50-100 Wörter))
+Heute habe ich mein Powershell skript fertig gemacht. Ich konnte gut vorankommen und hahe die Basis gemacht. Den rest vom morgen habe ich in HTB verbraacht und da weitergearbeitet. Unerwartet habe ich noch hilfe bekommen von Nael da mein Korrekturtool von 346 nicht richtig funktioniert hat. Jetzt geht es wider und ich kann auch in 346 normal weiterarbeiten.
+
+
+### Planung 20.11.2026
+3 bis 5 klar messbare Arbeitspakete.
+
+- [] Für das Powershell Projekt eine einfache HTML seite bauen. (ca.1.30h)
+- [] Eine Aufgabenpalannung machen in welcher die HTML seite aufploppt bei jedem Pc start. (ca. 30 min)
+- [] In HTB an meinem Linux kurs weiterarbeiten 4 Flags (ca 2h)
+
+(Heute habe ich... (50-100 Wörter))
+
+
+
 ## Lernperiode Reflexion
 (In dieser Lernperiode habe ich... (100-150 Wörter))

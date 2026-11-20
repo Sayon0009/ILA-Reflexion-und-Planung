@@ -60,6 +60,7 @@ Heute habe ich mein Powershell skript angefangen ich habe viel rechechiert und m
 Heute habe ich mein Powershell skript fertig gemacht. Ich konnte gut vorankommen und hahe die Basis gemacht. Den rest vom morgen habe ich in HTB verbraacht und da weitergearbeitet. Unerwartet habe ich noch hilfe bekommen von Nael da mein Korrekturtool von 346 nicht richtig funktioniert hat. Jetzt geht es wider und ich kann auch in 346 normal weiterarbeiten.
 
 
+
 ### Planung 20.11.2026
 3 bis 5 klar messbare Arbeitspakete.
 

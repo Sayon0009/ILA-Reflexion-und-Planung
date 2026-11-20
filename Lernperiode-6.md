@@ -63,13 +63,21 @@ Heute habe ich mein Powershell skript fertig gemacht. Ich konnte gut vorankommen
 ### Planung 20.11.2026
 3 bis 5 klar messbare Arbeitspakete.
 
-- [ ] Für das Powershell Projekt eine einfache HTML seite bauen. (ca.1.30h)
-- [ ] Eine Aufgabenpalannung machen in welcher die HTML seite aufploppt bei jedem Pc start. (ca. 30 min)
-- [ ] In HTB an meinem Linux kurs weiterarbeiten 4 Flags (ca 2h)
+- [x] Für das Powershell Projekt eine einfache HTML seite bauen. (ca.1.30h)
+- [x] Eine Aufgabenpalannung machen in welcher die HTML seite aufploppt bei jedem Pc start. (ca. 30 min)
+- [x] In HTB an meinem Linux kurs weiterarbeiten 4 Flags (ca 2h)
 
 (Heute habe ich... (50-100 Wörter))
+Heute habe ich praktisch nur an HTML gearbeitet. ICh habe es sehr unterschätzt mit den Imports meinen Daten von healthcheck auf ein HTML. Ich habe die Hilfe von KI in anspruch genommen. Ich bin noch nicht fertig damit geworden. Die AUfgabenplannung habe ich jedoch bis jetzt auch gemacht damit ich testen kann wie die Daten angezeigt werden weil es mit der Live extension von VSC nicht alles anzeig sondern nur das reine html weil es ja kein zugriff auf die Daten hat.
 
+### Planung 20.11.2026
+3 bis 5 klar messbare Arbeitspakete.
 
+- [ ] Die HTML seite mit allen Daten des Checks verbinden ca. 1h 
+- [ ] Die HTML seite fertig gestallten und bauen ca.2 h
+- [ ] In HTB mein Linux Kurs weitermachen 2 Flags ca. 1h
+
+(Heute habe ich... (50-100 Wörter))
 
 ## Lernperiode Reflexion
 (In dieser Lernperiode habe ich... (100-150 Wörter))

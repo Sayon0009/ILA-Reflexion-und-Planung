@@ -74,11 +74,19 @@ Heute habe ich praktisch nur an HTML gearbeitet. ICh habe es sehr unterschätzt 
 ### Planung 27.11.2026
 3 bis 5 klar messbare Arbeitspakete.
 
-- [ ] Die HTML seite mit allen Daten des Checks verbinden ca. 1h 
-- [ ] Die HTML seite fertig gestallten und bauen ca.2 h
-- [ ] In HTB mein Linux Kurs weitermachen 2 Flags ca. 1h
+- [x] Die HTML seite mit allen Daten des Checks verbinden ca. 1h 
+- [x] Die HTML seite fertig gestallten und bauen ca.2 h
+- [x] In HTB mein Linux Kurs weitermachen 2 Flags ca. 1h
 
 (Heute habe ich... (50-100 Wörter))
+Heute habe ich die HTML-Seite mit allen Daten des Checks verbunden, was etwa eine Stunde dauerte, ich bin aber noch nicht fertig. Danach habe ich die Seite in rund zwei Stunden fertig gestaltet und gebaut, jedoch muss ich die platzhalter für die Daten noch machen. Zum Schluss habe ich im HTB-Linux-Kurs weitergearbeitet und zwei Flags geholt.
+
+### Planung 27.11.2026
+3 bis 5 klar messbare Arbeitspakete.
+
+- [ ] Die HTML Seite mir dem Rest der Daten verbinden ca. 2h
+- [ ] Alle PLatzghalter in dem HTML mit den Verbundenen Daten füllen. ca 1h.
+- [ ] Linux YT video fertig schauen ca. 12 min und in HTB weiterarbeiten 1 Flag ca. 45 min
 
 ## Lernperiode Reflexion
 (In dieser Lernperiode habe ich... (100-150 Wörter))
